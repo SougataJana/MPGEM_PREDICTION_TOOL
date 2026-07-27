@@ -106,11 +106,3 @@ genes, in reference-list order. Available in full, or as a filtered subset from 
 
 ---
 
-## Contact and support
-
-- Email: [shandar@sciwhylab.org](mailto:shandar@sciwhylab.org)
-- Report a problem: [open an issue](https://github.com/SougataJana/MPGEM_PREDICTION_TOOL/issues/new)
-- Source code: [SougataJana/MPGEM_PREDICTION_TOOL](https://github.com/SougataJana/MPGEM_PREDICTION_TOOL)
-- Lab website: [shandarslab.org](http://shandarslab.org)
-
-A contact panel with these links is also available from the button in the corner of the app.
